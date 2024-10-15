@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexander Agudelo C</h1>
 <h3 align="center">Software developer from Colombia</h3>
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="500">
-<br><br>
+</div>
+  <br><br>
 
 - 🔭 I’m currently working on [Kernel System] www.kernelsystem.net
 
